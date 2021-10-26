@@ -1,0 +1,49 @@
+ul.nav 
+      {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color:black;
+      }
+
+     li.li1
+     {
+       float: left;
+       border-right: 2px solid white;
+     }
+      li.li2
+     {
+       float: left;
+       border-right: 2px solid white;
+     }
+      li.li3
+     {
+       float: left;
+       border-right: 2px solid white;
+     }
+     li.li4
+     {
+       float: left;
+       border-right: 2px solid white;
+     }
+     li a 
+     {
+          display: block;
+          color: white;
+          text-align: center;
+          padding: 14px 16px;
+          text-decoration: none;
+     }
+     li a:hover 
+     {
+         background-color: grey;
+     }
+      body
+     {
+       background: rgb(250,200,180);
+     }
+     h3
+     {
+      padding:5%
+     }
